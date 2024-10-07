@@ -37,4 +37,4 @@ Restaurantes que conseguiram voltar ao topo após vários anos, indicando um pos
 A análise mostra uma dinâmica interessante no mundo dos melhores restaurantes, com alguns mantendo uma posição dominante e outros subindo e descendo no ranking.
 
 ### Próximos Passos
-Investigar mais a fundo as características específicas que levam um restaurante ao topo e explorar a correlação entre tendências globais e mudanças no 
+Investigar mais a fundo as características específicas que levam um restaurante ao topo e explorar a correlação entre tendências globais e mudanças no ranking.
