@@ -12,6 +12,7 @@ Você pode acessar o dataset utilizado para esta análise [aqui](https://www.kag
 
 ### Visualização para Exportação do Excel
 ![Exportação do Excel](images/xlsx_image.png)
+
 Nesta visualização, temos os restaurantes que ficaram no top 1 de 2002 até 2023, preparados para exportação e análise no 
 
 ## Conclusão e Insights
